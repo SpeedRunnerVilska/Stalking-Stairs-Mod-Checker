@@ -93,7 +93,9 @@ Automatically detects common modding environments and displays them inside the p
 *Add screenshots here*
 
 ```md
-![Preview](preview.png)
+![[Preview](https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview.png)
+![[Preview](https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview2.png)
+![[Preview](https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview3.png)
 ```
 
 ---
