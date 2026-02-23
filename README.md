@@ -88,21 +88,9 @@ Automatically detects common modding environments and displays them inside the p
 
 ---
 
-## Preview
-
-*Add screenshots here*
-
-```md
-https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview.png
-https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview2.png
-https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Checker/blob/main/Preview3.png
-```
-
----
-
 ## Installation
 
-1. Install **BepInEx** for the game
+1. [Install **BepInEx** for the game](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip)
 2. Download the latest release DLL
 3. Place DLL into:
 
